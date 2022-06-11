@@ -1,4 +1,4 @@
-# Data-structure_Algorithm
+ # Seive of Eratothenes
 Includes my practice of Data structures and Algorithms
 
 Step 1: Download the file, it is code of seive of eratosthenes using Data Struture Algorithms.
@@ -9,7 +9,7 @@ Step 3: Also by using online compiler like online GDB compiler "https://www.onli
 
 
 # Description about code
-  # Seive of Eratothenes
+ 
   
 Step 1: Sieve of Eratosthenes is a simple and ancient algorithm used to find the prime numbers up to any given limit.
 
